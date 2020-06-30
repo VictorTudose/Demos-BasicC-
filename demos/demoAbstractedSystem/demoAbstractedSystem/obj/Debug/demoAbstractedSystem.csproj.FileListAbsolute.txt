@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.exe.config
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.exe
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.pdb
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.exe
+E:\MSP\academy\__2\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.pdb
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.exe.config
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.exe
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\bin\Debug\demoAbstractedSystem.pdb
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.exe
+E:\MSP\academy\demos\demoAbstractedSystem\demoAbstractedSystem\obj\Debug\demoAbstractedSystem.pdb

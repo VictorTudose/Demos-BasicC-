@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoInner\demoInner\bin\Debug\demoInner.exe.config
+E:\MSP\academy\__2\demos\demoInner\demoInner\bin\Debug\demoInner.exe
+E:\MSP\academy\__2\demos\demoInner\demoInner\bin\Debug\demoInner.pdb
+E:\MSP\academy\__2\demos\demoInner\demoInner\obj\Debug\demoInner.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoInner\demoInner\obj\Debug\demoInner.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoInner\demoInner\obj\Debug\demoInner.exe
+E:\MSP\academy\__2\demos\demoInner\demoInner\obj\Debug\demoInner.pdb
+E:\MSP\academy\demos\demoInner\demoInner\bin\Debug\demoInner.exe.config
+E:\MSP\academy\demos\demoInner\demoInner\bin\Debug\demoInner.exe
+E:\MSP\academy\demos\demoInner\demoInner\bin\Debug\demoInner.pdb
+E:\MSP\academy\demos\demoInner\demoInner\obj\Debug\demoInner.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoInner\demoInner\obj\Debug\demoInner.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoInner\demoInner\obj\Debug\demoInner.exe
+E:\MSP\academy\demos\demoInner\demoInner\obj\Debug\demoInner.pdb

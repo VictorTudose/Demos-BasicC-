@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\bin\Debug\demoPartial.exe.config
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\bin\Debug\demoPartial.exe
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\bin\Debug\demoPartial.pdb
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\obj\Debug\demoPartial.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\obj\Debug\demoPartial.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\obj\Debug\demoPartial.exe
+E:\MSP\academy\__2\demos\demoPartial\demoPartial\obj\Debug\demoPartial.pdb
+E:\MSP\academy\demos\demoPartial\demoPartial\bin\Debug\demoPartial.exe.config
+E:\MSP\academy\demos\demoPartial\demoPartial\bin\Debug\demoPartial.exe
+E:\MSP\academy\demos\demoPartial\demoPartial\bin\Debug\demoPartial.pdb
+E:\MSP\academy\demos\demoPartial\demoPartial\obj\Debug\demoPartial.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoPartial\demoPartial\obj\Debug\demoPartial.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoPartial\demoPartial\obj\Debug\demoPartial.exe
+E:\MSP\academy\demos\demoPartial\demoPartial\obj\Debug\demoPartial.pdb

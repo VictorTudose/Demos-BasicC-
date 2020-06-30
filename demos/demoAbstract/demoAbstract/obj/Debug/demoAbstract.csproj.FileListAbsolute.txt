@@ -1,0 +1,13 @@
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.exe.config
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.exe
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.pdb
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.exe
+E:\MSP\academy\__2\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.pdb
+E:\MSP\academy\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.exe.config
+E:\MSP\academy\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.exe
+E:\MSP\academy\demos\demoAbstract\demoAbstract\bin\Debug\demoAbstract.pdb
+E:\MSP\academy\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.exe
+E:\MSP\academy\demos\demoAbstract\demoAbstract\obj\Debug\demoAbstract.pdb

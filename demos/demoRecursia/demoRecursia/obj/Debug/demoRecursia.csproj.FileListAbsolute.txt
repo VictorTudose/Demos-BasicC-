@@ -1,0 +1,13 @@
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.exe.config
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.exe
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.pdb
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.exe
+E:\MSP\academy\__2\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.pdb
+E:\MSP\academy\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.exe.config
+E:\MSP\academy\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.exe
+E:\MSP\academy\demos\demoRecursia\demoRecursia\bin\Debug\demoRecursia.pdb
+E:\MSP\academy\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.exe
+E:\MSP\academy\demos\demoRecursia\demoRecursia\obj\Debug\demoRecursia.pdb

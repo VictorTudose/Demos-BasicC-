@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.exe.config
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.exe
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.pdb
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.exe
+E:\MSP\academy\__2\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.pdb
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.exe.config
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.exe
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\bin\Debug\demoInterfaces.pdb
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.exe
+E:\MSP\academy\demos\demoInterfaces\demoInterfaces\obj\Debug\demoInterfaces.pdb

@@ -1,0 +1,7 @@
+E:\MSP\academy\demos\Modul8\Modul8\bin\Debug\Modul8.exe.config
+E:\MSP\academy\demos\Modul8\Modul8\bin\Debug\Modul8.exe
+E:\MSP\academy\demos\Modul8\Modul8\bin\Debug\Modul8.pdb
+E:\MSP\academy\demos\Modul8\Modul8\obj\Debug\Modul8.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\Modul8\Modul8\obj\Debug\Modul8.exe
+E:\MSP\academy\demos\Modul8\Modul8\obj\Debug\Modul8.pdb
+E:\MSP\academy\demos\Modul8\Modul8\obj\Debug\Modul8.csprojAssemblyReference.cache

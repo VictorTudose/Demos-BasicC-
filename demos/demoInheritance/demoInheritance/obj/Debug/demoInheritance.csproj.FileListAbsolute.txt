@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.exe.config
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.exe
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.pdb
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.exe
+E:\MSP\academy\__2\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.pdb
+E:\MSP\academy\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.exe.config
+E:\MSP\academy\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.exe
+E:\MSP\academy\demos\demoInheritance\demoInheritance\bin\Debug\demoInheritance.pdb
+E:\MSP\academy\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.exe
+E:\MSP\academy\demos\demoInheritance\demoInheritance\obj\Debug\demoInheritance.pdb

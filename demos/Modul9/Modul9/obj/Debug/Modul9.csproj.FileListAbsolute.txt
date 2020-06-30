@@ -1,0 +1,7 @@
+E:\MSP\academy\demos\Modul9\Modul9\bin\Debug\Modul9.exe.config
+E:\MSP\academy\demos\Modul9\Modul9\bin\Debug\Modul9.exe
+E:\MSP\academy\demos\Modul9\Modul9\bin\Debug\Modul9.pdb
+E:\MSP\academy\demos\Modul9\Modul9\obj\Debug\Modul9.csprojAssemblyReference.cache
+E:\MSP\academy\demos\Modul9\Modul9\obj\Debug\Modul9.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\Modul9\Modul9\obj\Debug\Modul9.exe
+E:\MSP\academy\demos\Modul9\Modul9\obj\Debug\Modul9.pdb

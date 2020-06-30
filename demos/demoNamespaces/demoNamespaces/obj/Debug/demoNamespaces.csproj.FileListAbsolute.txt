@@ -1,0 +1,14 @@
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.exe.config
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.exe
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.pdb
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.csprojAssemblyReference.cache
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.csproj.CoreCompileInputs.cache
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.exe
+E:\MSP\academy\__2\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.pdb
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.exe.config
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.exe
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\bin\Debug\demoNamespaces.pdb
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.csprojAssemblyReference.cache
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.exe
+E:\MSP\academy\demos\demoNamespaces\demoNamespaces\obj\Debug\demoNamespaces.pdb

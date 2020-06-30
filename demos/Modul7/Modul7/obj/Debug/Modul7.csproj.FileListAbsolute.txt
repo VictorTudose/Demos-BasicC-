@@ -1,0 +1,7 @@
+E:\MSP\academy\demos\Modul7\Modul7\bin\Debug\Modul7.exe.config
+E:\MSP\academy\demos\Modul7\Modul7\bin\Debug\Modul7.exe
+E:\MSP\academy\demos\Modul7\Modul7\bin\Debug\Modul7.pdb
+E:\MSP\academy\demos\Modul7\Modul7\obj\Debug\Modul7.csprojAssemblyReference.cache
+E:\MSP\academy\demos\Modul7\Modul7\obj\Debug\Modul7.csproj.CoreCompileInputs.cache
+E:\MSP\academy\demos\Modul7\Modul7\obj\Debug\Modul7.exe
+E:\MSP\academy\demos\Modul7\Modul7\obj\Debug\Modul7.pdb
