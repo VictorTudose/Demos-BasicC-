@@ -1,0 +1,6 @@
+c:\users\lluchian\documents\visual studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\bin\Debug\Laborator_6_Solution.exe.config
+c:\users\lluchian\documents\visual studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\bin\Debug\Laborator_6_Solution.exe
+c:\users\lluchian\documents\visual studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\bin\Debug\Laborator_6_Solution.pdb
+c:\users\lluchian\documents\visual studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\obj\Debug\Laborator_6_Solution.exe
+c:\users\lluchian\documents\visual studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\obj\Debug\Laborator_6_Solution.pdb
+C:\Users\lluchian\Documents\Visual Studio 2012\Projects\Laborator_6_Solution\Laborator_6_Solution\obj\Debug\Laborator_6_Solution.csprojResolveAssemblyReference.cache
